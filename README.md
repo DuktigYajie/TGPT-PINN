@@ -12,9 +12,16 @@ Paper Links:https://arxiv.org/abs/2403.03459
 
 # Citation:
 Below you can find the Bibtex citation:
-@article{chen2024tgpt,
-  title={TGPT-PINN: Nonlinear model reduction with transformed GPT-PINNs},
-  author={Chen, Yanlai and Ji, Yajie and Narayan, Akil and Xu, Zhenli},
-  journal={arXiv preprint arXiv:2403.03459},
-  year={2024}
+
+<blockquote style="border-left: 5px solid #ccc; background-color: #f9f9f9; padding: 10px;">
+@article{chen2024tgpt,<br>
+&nbsp;&nbsp;&nbsp;title={TGPT-PINN: Nonlinear model reduction with transformed GPT-PINNs},<br>
+&nbsp;&nbsp;&nbsp;author={Chen, Yanlai and Ji, Yajie and Narayan, Akil and Xu, Zhenli},<br>
+&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2403.03459},<br>
+&nbsp;&nbsp;&nbsp;year={2024}<br>
 }
+</blockquote>
+
+
+
+
