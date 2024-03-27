@@ -9,3 +9,12 @@ Paper Links:https://arxiv.org/abs/2403.03459
 
 # TGPT-PINN Architecture
 ![image](https://github.com/DuktigYajie/TGPT-PINN/blob/main/TGPT-PINN.png)
+
+# Citation:
+Below you can find the Bibtex citation:
+@article{chen2024tgpt,
+  title={TGPT-PINN: Nonlinear model reduction with transformed GPT-PINNs},
+  author={Chen, Yanlai and Ji, Yajie and Narayan, Akil and Xu, Zhenli},
+  journal={arXiv preprint arXiv:2403.03459},
+  year={2024}
+}
