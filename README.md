@@ -5,7 +5,13 @@ Transformed Generative Pre-Trained Physics-Informed Neural Networks (TGPT-PINN),
 # TGPT-PINN: Nonlinear model reduction with transformed GPT-PINNs
 Yanlai Chen, Yajie Ji, Akil Narayan, Zhenli Xu
 
-Paper Links:https://arxiv.org/abs/2403.03459
+Paper Links:
+[arXiv](https://arxiv.org/abs/2403.03459) | [ResearchGate](https://www.researchgate.net/publication/379189909_TGPT-PINN_Nonlinear_model_reduction_with_transformed_GPT-PINNs)
+--------------------
+
+Talk/Presentation:
+[YouTube](https://www.youtube.com/watch?v=ODA9Po4FVWA)
+---------------
 
 # TGPT-PINN Architecture
 ![image](https://github.com/DuktigYajie/TGPT-PINN/blob/main/TGPT-PINN.png)
